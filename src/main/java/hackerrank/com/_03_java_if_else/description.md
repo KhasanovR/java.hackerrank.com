@@ -1,4 +1,4 @@
-# Java If-Else
+# Java If-Else [_Easy_]
 
 In this challenge, we test your knowledge of using if-else conditional statements to automate decision-making processes. An if-else statement has the following logical flow:
 
