@@ -1,4 +1,4 @@
-# Java Stdin and Stdout I
+# Java Stdin and Stdout I [_Easy_]
 
 Most HackerRank challenges require you to read input from [stdin](https://en.wikipedia.org/wiki/Standard_streams#Standard_input_.28stdin.29) (standard input) and write output to [stdout](https://en.wikipedia.org/wiki/Standard_streams#Standard_output_.28stdout.29) (standard output).
 

@@ -1,4 +1,4 @@
-# Welcome to Java!
+# Welcome to Java! [_Easy_]
 
 Welcome to the world of Java! In this challenge, we practice printing to stdout.
 
