@@ -1,7 +1,15 @@
 package hackerrank.com._06_java_loops_1;
 
-public class JavaLoops1 {
-    public static void main(String[] args) {
+import java.io.IOException;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 
+public class JavaLoops1 {
+    public static void main(String[] args) throws IOException {
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+
+        int N = Integer.parseInt(bufferedReader.readLine().trim());
+
+        bufferedReader.close();
     }
 }

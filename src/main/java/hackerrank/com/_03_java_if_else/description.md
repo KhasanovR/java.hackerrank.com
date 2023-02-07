@@ -8,22 +8,22 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Conditional_%28computer_progra
 
 ## Task
 
-Given an integer, _**η**_, perform the following conditional actions:
+Given an integer, _η_, perform the following conditional actions:
 
-- If _**η**_ is odd, print `Weird`
-- If _**η**_ is even and in the inclusive range of  to , print `Not Weird`
-- If _**η**_ is even and in the inclusive range of  to , print `Weird`
-- If _**η**_ is even and greater than , print `Not Weird`
+- If _η_ is odd, print `Weird`
+- If _η_ is even and in the inclusive range of  to , print `Not Weird`
+- If _η_ is even and in the inclusive range of  to , print `Weird`
+- If _η_ is even and greater than , print `Not Weird`
 
-Complete the stub code provided in your editor to print whether or not _**η**_ is weird.
+Complete the stub code provided in your editor to print whether or not _η_ is weird.
 
 ## Input Format
 
-A single line containing a positive integer, _**η**_.
+A single line containing a positive integer, _η_.
 
 ## Constraints
 
-- 1 <= _**η**_ <= 100
+- 1 ≤ _η_ ≤ 100
 
 ## Output Format
 
@@ -55,10 +55,10 @@ Not Weird
 
 ## Explanation
 
-Sample Case 0: _**η**_ = 3
+Sample Case 0: _η_ = 3
 
-_**η**_ is odd and odd numbers are weird, so we print `Weird`.
+_η_ is odd and odd numbers are weird, so we print `Weird`.
 
-Sample Case 1: _**η**_ = 24
+Sample Case 1: _η_ = 24
 
-_**η**_ > 20 and _**η**_ is even, so it isn't weird. Thus, we print `Not Weird`.
+_η_ > 20 and _η_ is even, so it isn't weird. Thus, we print `Not Weird`.
